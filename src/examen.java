@@ -5,7 +5,7 @@ public class examen {
     public static final String ANSI_ROJO = "\u001B[31m";  // Texto rojo
     public static final String ANSI_VERDE = "\u001B[32m"; // Texto verde
     public static final String ANSI_AZUL = "\u001B[34m";  // Texto azul
-
+    
     public static void main(String[] args) {
     
     String respuesta = "s";
